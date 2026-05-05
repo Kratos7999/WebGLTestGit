@@ -3,3 +3,9 @@ body {
     padding: 0;
     background-color: black;
 }
+
+#unity-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
