@@ -5,7 +5,8 @@ body {
 }
 
 #unity-container {
+    width: 100%;
     display: flex;
-    justify-content: center;
-    margin-top: 80px;
+    justify-content: center; 
+    margin-top: 40px; 
 }
